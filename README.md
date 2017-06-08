@@ -1,4 +1,4 @@
-# myproject
+# myproject vue2+webpack2 多页面打包
 
 > A Vue.js project
 
@@ -28,3 +28,5 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+#默认打开 http://localhost:8880/views/home/list.html
